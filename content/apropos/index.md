@@ -12,9 +12,9 @@ Depuis 1993, le réseau ne cesse de s'agrandir tandis que le nombre de membres s
 
 
 
-[Consignes pour l'utilisation des sentiers](/affiche%20consignes.pdf)
+[Consignes pour l'utilisation des sentiers](affiche%20consignes.pdf)
 
-[Accès aux chiens et règles](/affiche%20Chiens.pdf)
+[Accès aux chiens et règles](affiche%20Chiens.pdf)
 
 
 ## Un peu d'histoire

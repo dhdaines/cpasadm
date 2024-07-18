@@ -5,3 +5,5 @@ theme = 'ananke'
 DefaultContentLanguage = "fr"
 [params]
 recent_posts_number = 1
+body_classes = "helvetica"
+short_title = "Plein air Sainte-Agathe"
